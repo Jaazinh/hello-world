@@ -6,3 +6,6 @@ tu jest bardzo wazne zdanie
 gfdgfdgfdhhgfdfhg
 
 afdssasafdsafdsafdsa
+
+
+edutuje lokalnie
